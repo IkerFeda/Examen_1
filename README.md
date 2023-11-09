@@ -54,6 +54,9 @@ Los programas en C++ se encuentran en la carpeta Programas_C++. Cada programa ti
 - Profesores.cpp: Hace practicamente lo mismo que estudiantes.cpp con la diferencia que es con la clase profesor y sus propiedades
 
 ## Ejercicio 3: Preguntas de Desarrollo
+## Diferencias entre Programación Orientada a Objetos y Programación Procedimental
+
+La programación ha evolucionado a lo largo del tiempo, adoptando diferentes enfoques. La Programación Orientada a Objetos (POO) se basa en la organización del código alrededor de objetos que combinan datos y funciones, promoviendo la reutilización de código a través de clases y objetos, y permitiendo la herencia. Por otro lado, la Programación Procedimental (PP) se centra en procedimientos y funciones que operan en datos, sin enfocarse tanto en la organización y la simplificación de los datos, y sin incorporar la herencia de manera inherente. La elección entre los enfoques depende de los requisitos y preferencias del programador.
 
 
 
