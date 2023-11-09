@@ -5,6 +5,13 @@
 #include <string>
 #include <vector>
 
+class MateriaYaRegistradaException : public std::exception {
+public:
+    virtual const char* what() const throw() {
+        return "Error: La materia ya ha sido registrada.";
+    }
+};
+
 class RegistroAsistencia {
 public:
     std::string fecha;
