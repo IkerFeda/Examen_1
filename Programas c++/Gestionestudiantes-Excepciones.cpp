@@ -61,7 +61,7 @@ int main() {
     try {
         estudiante1.registrar_materia("Matemáticas");
         estudiante1.registrar_materia("Ciencias");
-        estudiante1.registrar_materia("Matemáticas"); // Intento registrar una materia que ya existe
+        estudiante1.registrar_materia("Matemáticas"); 
     } catch (MateriaYaRegistradaException &e) {
         std::cout << "Excepción atrapada: " << e.what() << std::endl;
     }
