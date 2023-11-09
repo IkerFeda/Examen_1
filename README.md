@@ -5,7 +5,7 @@ Bienvenido a mi Examen
 
 ## Enlaces
 
-- Repositorio en GitHub: [[Enlace al Repositorio](URL_DEL_REPOSITORIO)](https://github.com/IkerFeda/Examen_1.git)
+- Repositorio en GitHub: (URL_DEL_REPOSITORIO)](https://github.com/IkerFeda/Examen_1.git)
 
 ## Ejercicio 1: Preguntas de Opciones Múltiples
 
@@ -50,7 +50,8 @@ Los programas en C++ se encuentran en la carpeta Programas_C++. Cada programa ti
 - ManejodeAusencias.cpp: permite controlar la asistencia a traves de la funcion mostrar_asistencia
 - Gestionestudiantes-RegistrodeMaterias-Grados.cpp: Una nueva ampliacion que permite filtrar a los estudiantes por sus grados, ocupa un vector y la funcion filtrar_estudiantes para dicho proposito
 - Gestionestudiantes-Excepciones.cpp: Una nueva extensión de la clase estudiante que permite el manejo de la excepcion "Materia ya Registrada"
-- 
+- Profesor.h: Una version corta y simple de estudiantes.h, la diferencia es que ahora es con la clase profesor
+- Profesores.cpp: Hace practicamente lo mismo que estudiantes.cpp con la diferencia que es con la clase profesor y sus propiedades
 
 ## Ejercicio 3: Preguntas de Desarrollo
 
