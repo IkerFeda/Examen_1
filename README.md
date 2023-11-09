@@ -62,6 +62,10 @@ A lo largo de su historia, la programación ha evolucionado adoptando diversos e
 
 C++ proporciona soporte para ambas metodologías al permitir la creación de clases y objetos, implementar herencia, y utilizar funciones y procedimientos. Además, facilita la manipulación de variables y tipos de datos. Esta versatilidad permite a los desarrolladores elegir el enfoque de programación que mejor se adapte a las necesidades específicas de cada proyecto.
 
+## Comportamiento de las Excepciones en C++
+
+Las excepciones en C++ tienen un comportamiento específico. La propagación de una excepción es el proceso mediante el cual una excepción en una parte del código a traves de las funciones try y throw se transmite en busca de un bloque `catch` adecuado. Si no se captura por ningún bloque `catch`, el programa se detiene en un error, lo que destaca la importancia de incluir bloques `catch` para manejar excepciones y evitar posibles errores en el código.
+
 
 
 
