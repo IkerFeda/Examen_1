@@ -41,20 +41,15 @@ d. Ninguna de las anteriores
 
 Los programas en C++ se encuentran en la carpeta Programas_C++. Cada programa tiene su propio archivo y una breve descripción de lo que hace.
 
-- programa1.cpp: Descripción del primer programa en C++.
-- programa2.cpp: Descripción del segundo programa en C++.
+- Estudiantes.h: El programa mas importante de todos, en el estan incluidos todas las declaraciones y varias funciones con el objetivo de optimizar.
+- Suma.cpp: programa que permite sumer 2 numeros
+- GestionEstudiantes.cpp programa que permite manejar información de estudiantes como grado, nombre y edad
+- Punteros.cpp: Enseña la implementacion de punteros para el intercambio de variables
+- GestionPromedios.cpp: Permite gestionar los promedios de los estudiantes a traves de un vector el cual permite insertar las calificaciones y obtener el promedio.
+- Gestionestudiantes-RegistrodeMaterias: cumple la misma funcion que GestionEstudiantes con la diferencia que permite eincribir materias a los estudiantes.
+- 
 
 ## Ejercicio 3: Preguntas de Desarrollo
 
-Las preguntas de desarrollo están en la carpeta Preguntas_Desarrollo. Puedes encontrar las respuestas detalladas en el archivo respuestas_desarrollo.md.
 
-## Uso de Markdown
 
-Se ha utilizado Markdown para estructurar y formatear este README.md. Puedes encontrar la sintaxis utilizada para los encabezados, enlaces, listas y más.
-
-```markdown
-# Encabezado 1
-## Encabezado 2
-- Lista
-  - Elemento de lista
-[Enlace](URL)
