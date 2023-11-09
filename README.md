@@ -1,7 +1,7 @@
 # Examen1
 # Proyecto de Ejercicios
 
-Bienvenido a mi proyecto de ejercicios que consta de tres partes.
+Bienvenido a mi Examen 
 
 ## Enlaces
 
