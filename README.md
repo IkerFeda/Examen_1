@@ -46,7 +46,10 @@ Los programas en C++ se encuentran en la carpeta Programas_C++. Cada programa ti
 - GestionEstudiantes.cpp programa que permite manejar información de estudiantes como grado, nombre y edad
 - Punteros.cpp: Enseña la implementacion de punteros para el intercambio de variables
 - GestionPromedios.cpp: Permite gestionar los promedios de los estudiantes a traves de un vector el cual permite insertar las calificaciones y obtener el promedio.
-- Gestionestudiantes-RegistrodeMaterias: cumple la misma funcion que GestionEstudiantes con la diferencia que permite eincribir materias a los estudiantes.
+- Gestionestudiantes-RegistrodeMaterias.cpp: cumple la misma funcion que GestionEstudiantes con la diferencia que permite eincribir materias a los estudiantes.
+- ManejodeAusencias.cpp: permite controlar la asistencia a traves de la funcion mostrar_asistencia
+- Gestionestudiantes-RegistrodeMaterias-Grados.cpp: Una nueva ampliacion que permite filtrar a los estudiantes por sus grados, ocupa un vector y la funcion filtrar_estudiantes para dicho proposito
+- Gestionestudiantes-Excepciones.cpp: Una nueva extensión de la clase estudiante que permite el manejo de la excepcion "Materia ya Registrada"
 - 
 
 ## Ejercicio 3: Preguntas de Desarrollo
