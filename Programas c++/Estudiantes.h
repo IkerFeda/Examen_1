@@ -1,4 +1,3 @@
-
 #ifndef ESTUDIANTES_H
 #define ESTUDIANTES_H
 
@@ -27,6 +26,7 @@ public:
     void mostrar_materias();
     void mostrar_info();
     float calcular_promedio();
+    std::vector<Estudiantes> filtrar_estudiantes(const std::vector<Estudiantes>& lista_estudiantes, const std::string& grado);
 };
 
 #endif
