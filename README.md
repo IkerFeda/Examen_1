@@ -66,6 +66,10 @@ C++ proporciona soporte para ambas metodologías al permitir la creación de cla
 
 Las excepciones en C++ tienen un comportamiento específico. La propagación de una excepción es el proceso mediante el cual una excepción en una parte del código a traves de las funciones try y throw se transmite en busca de un bloque `catch` adecuado. Si no se captura por ningún bloque `catch`, el programa se detiene en un error, lo que destaca la importancia de incluir bloques `catch` para manejar excepciones y evitar posibles errores en el código.
 
+## Importancia de la Gestión de Recursos en C++
+
+En el contexto de C++, la adquisición de recursos implica obtener y almacenar elementos del sistema, como archivos o memoria, para su posterior utilización en un programa. La gestión adecuada de estos recursos es fundamental para asegurar un uso eficiente y seguro de los mismos. Además, está estrechamente relacionada con la gestión de excepciones al capturar recursos, lo que garantiza su liberación en presencia de excepciones, mejorando así la seguridad y eficiencia del programa.
+
 
 
 
