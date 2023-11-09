@@ -6,6 +6,14 @@
 #include <string>
 #include <vector>
 
+class RegistroAsistencia {
+public:
+    std::string fecha;
+    std::string estado;
+
+    void mostrar_asistencia();
+};
+
 class Estudiantes {
 public:
     std::string nombre;
