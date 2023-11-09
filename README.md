@@ -5,7 +5,7 @@ Bienvenido a mi Examen
 
 ## Enlaces
 
-- Repositorio en GitHub: [Enlace al Repositorio](URL_DEL_REPOSITORIO)
+- Repositorio en GitHub: [[Enlace al Repositorio](URL_DEL_REPOSITORIO)](https://github.com/IkerFeda/Examen_1.git)
 
 ## Ejercicio 1: Preguntas de Opciones Múltiples
 
