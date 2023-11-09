@@ -58,5 +58,10 @@ Los programas en C++ se encuentran en la carpeta Programas_C++. Cada programa ti
 
 A lo largo de su historia, la programación ha evolucionado adoptando diversos enfoques. La Programación Orientada a Objetos (POO) se fundamenta en la organización del código alrededor de entidades llamadas objetos, que integran tanto datos como funciones. Este enfoque fomenta la reutilización de código a través de clases y objetos, y facilita el concepto de herencia. Por el contrario, la Programación Procedimental (PP) se centra en procedimientos y funciones que operan directamente sobre los datos, sin enfocarse tanto en la estructura y la simplificación de los mismos, ni incorporar de manera inherente el concepto de herencia. La elección entre estos enfoques depende de los requerimientos específicos y las preferencias del programador.
 
+## Soporte de C++ para Programación Orientada a Objetos y Procedimental
+
+C++ proporciona soporte para ambas metodologías al permitir la creación de clases y objetos, implementar herencia, y utilizar funciones y procedimientos. Además, facilita la manipulación de variables y tipos de datos. Esta versatilidad permite a los desarrolladores elegir el enfoque de programación que mejor se adapte a las necesidades específicas de cada proyecto.
+
+
 
 
